@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\bin\Debug\DHCP_Test.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\bin\Debug\DHCP_Test.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\bin\Debug\DHCP_Test.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\DHCP_Test\obj\Debug\DHCP_Test.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP_Test.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\bin\Debug\DHCP Search.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\bin\Debug\DHCP Search.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\bin\Debug\DHCP Search.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP_Search.AboutBox1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP_Search.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP_Search.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP Search.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP Search.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\DHCP_Test\DHCP_Test\obj\Debug\DHCP Search.pdb
